@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Car Type</string>
+    <string name="find_car">Find Car!</string>
+    <string name="types">No cars selected</string>
+    <string-array name="car_brands">
+        <item>BMW</item>
+        <item>BENZ</item>
+        <item>AUDI</item>
+    </string-array>
+</resources>
